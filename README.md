@@ -15,7 +15,7 @@ A decision making spinner when your anxiety is high and don't feel like making a
 
 | UI Colors             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#B48EAE](https://via.placeholder.com/10/B=b48eae?text=+) #B48EAE |
+| Example Color | ![#B48EAE](Images/Colors/purpleColorStrip.png) #B48EAE |
 | Example Color | ![#F2F0EF](https://via.placeholder.com/10/#f2f0ef?text=+) #F2F0EF |
 | Example Color | ![#646E68](https://via.placeholder.com/10/646E68?text=+) #646E68 |
 | Example Color | ![#00d1a0](https://via.placeholder.com/10/00d1a0?text=+) #00d1a0 |
